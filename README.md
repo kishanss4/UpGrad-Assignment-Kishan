@@ -15,6 +15,7 @@ This repository contains the submission for the DSMLAI Content Intern assignment
 
 ## Dataset
 Housing Prices Dataset (Kaggle)
+Source: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
 
 ## Notes
 - Only NumPy and Pandas are used
